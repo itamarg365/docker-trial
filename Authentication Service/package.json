@@ -1,0 +1,23 @@
+{
+  "name": "auth_service",
+  "version": "1.0.0",
+  "description": "simple authentication service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itamarg365/docker-trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itamarg365/docker-trial/issues"
+  },
+  "homepage": "https://github.com/itamarg365/docker-trial#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "sinon": "^4.1.3"
+  }
+}
